@@ -1,5 +1,6 @@
 
-today is sunday evening
-
-the last months of the year 2021
-comming soon 2022
+class HelloWorldApp {
+    public static void main(String[] args) {
+        System.out.println("Hello World!"); // Display the string.
+    }
+}
